@@ -1,0 +1,12 @@
+{
+  "name": "simple-ssl-node-server",
+  "version": "1.0.0",
+  "description": "A simple node ssl server with self-signed certificate",
+  "main": "index.js",
+  "repository": "https://github.com/H4rryp0tt3r/node-ssl-server.git",
+  "author": "H4rryp0tt3r <nagesh.podilapu@gmail.com>",
+  "license": "GPL",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
